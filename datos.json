@@ -2,26 +2,21 @@
 	{
 		"name": "Sullivan",
 		"img": "https://raw.githubusercontent.com/jacintasanchez/prueba-1/main/Sullivan.png"
-		"level": "monstruo"
 	},
 	{
 		"name": "Mike Wazowski",
 		"img": "https://raw.githubusercontent.com/jacintasanchez/prueba-1/main/mike.png"
-		"level": "monstruo"
 	},
 	{
 		"name": "Boo",
 		"img": "https://raw.githubusercontent.com/jacintasanchez/prueba-1/main/Boo.png"
-		"level": "monstruo"
 	},
 	{
 		"name": "Directora",
 		"img": "https://raw.githubusercontent.com/jacintasanchez/prueba-1/main/sen%CC%83ora.png"
-		"level": "monstruo"
 	},
 	{
 		"name": "Randall",
 		"img": "https://raw.githubusercontent.com/jacintasanchez/prueba-1/main/randall.png"
-		"level": "monstruo"
 	}
 ]
